@@ -155,8 +155,8 @@ with st.container(width=1700):
                     background-repeat: no-repeat;
                     background-size: cover;
                     margin-bottom: -1000px;
-                    margin-top: -400px;
-                    margin-left:70px;
+                    margin-top: -350px;
+                    margin-left:65px;
                     border-radius: 10px;
                     box-shadow: 0 5px 6px rgba(0,0,0.3,0.4);">
                     <div class="overlay">
