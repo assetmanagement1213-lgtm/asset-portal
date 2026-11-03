@@ -104,7 +104,7 @@ with st.container(width=1700):
                     background-repeat: no-repeat;
                     background-size: cover;
                     margin-bottom: -1000px;
-                    margin-left: 180px;
+                    margin-left: 150px;
                     border-radius: 10px;
                     display: flex;
                     box-shadow: 0 5px 6px rgba(0,0,0.3,0.4);">
